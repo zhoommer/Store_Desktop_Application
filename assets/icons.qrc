@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../d25746db/9071175_all_application_icon.png</file>
+    <file>../11d29282/camera-slash.png</file>
+    <file>../4534d81e/cart-shopping-fast.png</file>
+    <file>../dbbc24d9/images-user.png</file>
+    <file>../1f4b6858/print-magnifying-glass.png</file>
+    <file>../ec9eb456/sack-dollar.png</file>
+    <file>../4fdc347/times-hexagon.png</file>
+    <file>../eb0ef6e9/user-slash.png</file>
+    <file>../7e487af1/users-medical.png</file>
+  </qresource>
+</RCC>
